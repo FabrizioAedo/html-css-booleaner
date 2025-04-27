@@ -1,0 +1,92 @@
+/*reset*/
+*{ margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+/*general*/
+body {font-family: "Roboto", sans-serif ;
+}
+
+h1{font-size: 3em;
+}
+
+header,main,footer{
+    padding: 20px;
+}
+
+    /*utilities*/
+.p-10{padding: 10px;
+}
+
+
+.lightblue{
+    background-color: #B1E5F2;
+}
+.highlights{
+background-color: #FFFF00;
+}
+
+.text-blue{
+color: #20A9E5;
+
+}
+
+.text-white{
+    color: #ffffff;
+
+}
+
+.text-grey{
+    color: #818181;
+}
+.odd{
+    background-color: #B1E5F2;
+}
+
+.bg-blue{
+    background-color: #20A9E5;
+}
+
+#logo{
+    height: 100px;
+    
+}
+#logo img{
+    height: 100%;
+}
+header{background-color: #4EA0FF;
+       background-image: url(../img/pattern.png);
+       background-size: 30%;
+       background-repeat: repeat
+       
+    ;}
+
+    figure,aside{
+        margin-top: 20px;;
+    }
+
+    .image{
+        width: 208px;
+        height: 160px;
+        border: 1px solid red;
+        margin-bottom: 10px;
+
+    }
+    #img-monitor{
+        background-image: url(../img/monitor.jpg);
+    }
+    #img-graph{
+        background-image: url(../img/graph.jpg);
+    }
+    h3{margin-bottom: 15px;}
+    ul{margin-left: 20px;}
+
+    article p,article table,article ul{ padding: 10px 0 10px 0;}
+    article table{ 
+        text-align: left;
+        border-spacing: 0;
+    }
+
+    article table th.text{
+        width: 50%;
+    }

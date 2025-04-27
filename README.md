@@ -1,1 +1,12 @@
 # html-css-booleaner
+- Leggo la consegna
+- Preparare la repo e clonare
+- Mi guardo il mockup
+- Metto gli asset forniti nella cartella
+- Controllo di avere tutto il materiale
+- Utilizzare font richiesto
+- Creo index.html
+- Creo cartella css con relativo foglio stile
+- collego html e css
+- commit e push
+- analisi mockup
